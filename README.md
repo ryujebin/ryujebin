@@ -2,5 +2,5 @@
 
 Hello!  
 I'm **Ryu je-bin**, a passionate and motivated developer.  
-I'm especially interested in Flutter and web technologies, and I enjoy building user-centered UIs and features.  
+I'm especially interested in **Flutter** and web technologies, and I enjoy building user-centered UIs and features.  
 I strive to learn continuously and grow as a collaborative developer.
